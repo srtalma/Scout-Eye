@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+matplotlib 
+arabic_reshaper
+python-bidi
